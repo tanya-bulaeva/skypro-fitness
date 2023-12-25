@@ -31,6 +31,7 @@ Styled components
 Запустить приложение: npm run start;
 Откройте http://localhost:3000, чтобы просмотреть приложение.
 
-
+## Также доступно по ссылке:
+hilarious-praline-756315.netlify.app/
 
 
